@@ -3,7 +3,7 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:500,300,700,400");
 body {
 	padding: 0;
-	margin: 0;=
+	margin: 0;
 	width: 100%;
 	display: flex;
 	flex-direction: column;
@@ -13,7 +13,7 @@ body {
 }
 
 h2 {
-     color: #F65A5B ;
+     color: #F65A5B;
      font-size: 64px;
      margin: 0 0 10px 0;
      padding: 20px 0;
