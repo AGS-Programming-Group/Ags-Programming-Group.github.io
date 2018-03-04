@@ -11,6 +11,7 @@ body {
 	justify-content: center;
 	background: #6ab1c9;
 }
+
 h2 {
      color: #F65A5B ;
      font-size: 64px;
@@ -18,7 +19,7 @@ h2 {
      padding: 20px 0;
      line-height: 60px;
      width: 50%;
-    }
+}
 body .btn button {
 	color: #c7f8f9;
 	background: transparent;
