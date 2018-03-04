@@ -269,9 +269,3 @@ article img{
     -ms-transform:scale(0.7);
     transform:scale(0.7)}
 }
-
-@media only screen and (min-width:850px){
-  body{
-    padding:0 80px
-  }
-}
