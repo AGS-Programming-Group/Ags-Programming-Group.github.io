@@ -6,5 +6,6 @@
     "doctype-html": true,
     "indent-style": "spaces",
     "indent-width": 2,
-    "tag-self-close": "never"
+    "tag-self-close": "never",
+    "img-req-alt": false
 }
