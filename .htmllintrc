@@ -1,0 +1,10 @@
+{
+    // names of npm modules to load into htmllint
+
+    // TODO: export htmllint's default cfg
+    "doctype-first": true,
+    "doctype-html": true,
+    "indent-style": "spaces",
+    "indent-width": 2,
+    "tag-self-close": "never"
+}
