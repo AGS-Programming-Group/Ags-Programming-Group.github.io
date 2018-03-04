@@ -19,6 +19,11 @@ h2 {
      line-height: 60px;
      width: 50%;
 }
+
+p {
+     color: #F65A5B;
+}
+
 body .btn button {
 	color: #c7f8f9;
 	background: transparent;
