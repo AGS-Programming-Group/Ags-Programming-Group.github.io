@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,700");
 @import url("https://fonts.googleapis.com/css?family=Roboto:500,300,700,400");
 body {
-	padding: 0;
+	background: #6ab1c9;	padding: 0;
 	margin: 0;
 	width: 100%;
 	display: flex;
