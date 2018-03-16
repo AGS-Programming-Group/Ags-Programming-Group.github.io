@@ -8,4 +8,5 @@
     "indent-width": 2,
     "tag-self-close": "never",
     "img-req-alt": false
+    "attr-bans": false
 }
