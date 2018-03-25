@@ -6,11 +6,31 @@ img {
 	-webkit-transition-duration: 0.4s; /* Safari */
 	transition-duration: 0.4s;
 }
+
 img:hover {
 	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
+
 p {
 	font-family: Arial, Sans-serif;
 	font-size: 30px;
 	font-weight: bold;
+}
+
+h3 {
+     color: #F65A5B;
+     font-size: 48px;
+     margin: 0 0 10px 0;
+     padding: 20px 0;
+     line-height: 60px;
+     width: 50%;
+}
+
+h4 {
+     color: #F65A5B;
+     font-size: 32px;
+     margin: 0 0 10px 0;
+     padding: 20px 0;
+     line-height: 60px;
+     width: 50%;
 }
