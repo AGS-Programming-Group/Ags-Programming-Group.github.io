@@ -87,21 +87,9 @@ article img {
   font-size: 1.5em;
   font-style: normal;
 }
-.info.top-left {
-  top: 30px;
-  left: 30px;
-}
-.info.top-right {
-  top: 30px;
-  right: 30px;
-}
 .info.bottom-left {
   bottom: 30px;
   left: 30px;
-}
-.info.bottom-right {
-  bottom: 30px;
-  right: 30px;
 }
 
 /* Slider Styling */
