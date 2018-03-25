@@ -39,7 +39,8 @@ input{
 
 #container{
   width:100%;
-  overflow:hidden
+  overflow:hidden;
+  display:none
 }
 
 article img{
@@ -54,6 +55,7 @@ article img{
 #slides article{
   width:20%;
   float:left
+  display:none
 }
 
 #commands{
@@ -113,7 +115,8 @@ article img{
   background:#000;
   opacity:0.6;
   border-color:#fff;
-  border:2px solid #fff
+  border:2px solid #fff;
+  display:none
 }
 
 .caption{
@@ -155,7 +158,8 @@ article img{
   border-radius:2px 2px 2px 2px;
   -webkit-box-shadow:0 0 3px rgba(0,0,0,0.2);
   -moz-box-shadow:0 0 3px rgba(0,0,0,0.2);
-  box-shadow:0 0 3px rgba(0,0,0,0.2)
+  box-shadow:0 0 3px rgba(0,0,0,0.2);
+  display:none
 }
 
 #slides .inner{
