@@ -98,8 +98,7 @@ article img {
   overflow: hidden;
   border-radius: 5px;
   box-shadow: 1px 1px 4px #666;
-  background: #fff;
-  background: #fcfff4;
+  background-color: black;
   -webkit-transform: translateZ(0);
   -moz-transform: translateZ(0);
   -ms-transform: translateZ(0);
