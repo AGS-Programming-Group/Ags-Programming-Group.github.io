@@ -14,7 +14,7 @@ h2 {
 img {
 	border-style: solid;
 	border-width: 5px;
-	border-color: #2d2b4f;
+	border-color: white;
 	border-radius: 5px;
 	-webkit-transition-duration: 0.4s; /* Safari */
 	transition-duration: 0.4s;
