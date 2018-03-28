@@ -23,6 +23,32 @@
 
 }
 
+h2 {
+	font-size: 1.85em;
+	color: white;
+	letter-spacing: 1px;
+	font-family: "Lato";
+}
+
+.center {
+	text-align: center;
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+}
+
+img {
+	border-style: solid;
+	border-width: 5px;
+	border-color: white;
+	border-radius: 5px;
+	-webkit-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+}
+
+img:hover {
+	box-shadow: 0 8px 16px 0 rgba(255,255,255,0.2), 0 6px 20px 0 rgba(255,255,255,0.19);
+}
 
 * {
 
