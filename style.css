@@ -63,7 +63,7 @@ body {
 
 	flex-direction: column;
 
-	background: url("dark.png");
+	background: url("images/dark.png");
 
 	background-repeat: repeat;
 
@@ -225,7 +225,6 @@ body {
 	color: #F2D560;
 
 }
-
 
 #AGSPG {
 
