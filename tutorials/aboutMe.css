@@ -1,4 +1,4 @@
-        .body {
+        body {
             margin:0px;
         }
         
@@ -17,7 +17,7 @@
             padding:2vw;
         }
         
-        .img {
+        img {
             width: 50vw;
             float: right;
             padding: 0px;
@@ -25,7 +25,7 @@
             padding-bottom: 1vh;
         }
 
-        .text {
+        p {
             vertical-align: middle;
             display: inline;
         }
@@ -41,6 +41,6 @@
             position: fixed;
         }
 
-        .a {
+        a {
             color: white;
         }
