@@ -1,3 +1,7 @@
+        .body {
+            margin:0px;
+        }
+        
         .About {
             color: white;
             background-image: url("https://www.planwallpaper.com/static/images/Alien_Ink_2560X1600_Abstract_Background_1.jpg");
@@ -8,8 +12,15 @@
             margin: 0;
             padding-top: 50px;
             position: relative;
+        } 
+        .Padded {
+            padding:2vw;
         }
-
+        
+        .Right {
+            float:right;
+        }
+        
         .img {
             width: 50vw;
             float: right;
