@@ -1,0 +1,39 @@
+        .About {
+            color: white;
+            background-image: url("https://www.planwallpaper.com/static/images/Alien_Ink_2560X1600_Abstract_Background_1.jpg");
+            width: 100vw;
+            height: 100px;
+            text-align: center;
+            vertical-align: center;
+            margin: 0;
+            padding-top: 50px;
+            position: relative;
+        }
+
+        .img {
+            width: 50vw;
+            float: right;
+            padding: 0px;
+            padding-left: 1vw;
+            padding-bottom: 1vh;
+        }
+
+        .text {
+            vertical-align: middle;
+            display: inline;
+        }
+
+        .contact {
+            background: linear-gradient(to bottom right, grey, black);
+            width: 100%;
+            padding-left: 2vw;
+            padding-right: 2vw;
+            padding-top: 1vw;
+            padding-bottom: 1vw;
+            bottom: 0;
+            position: fixed;
+        }
+
+        .a {
+            color: white;
+        }
