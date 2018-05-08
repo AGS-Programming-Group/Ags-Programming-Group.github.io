@@ -2,21 +2,6 @@
             margin:0px;
         }
         
-        .About {
-            color: white;
-            background-image: url("https://www.planwallpaper.com/static/images/Alien_Ink_2560X1600_Abstract_Background_1.jpg");
-            width: 100vw;
-            height: 100px;
-            text-align: center;
-            vertical-align: center;
-            margin: 0;
-            padding-top: 50px;
-            position: relative;
-        } 
-        .Padded {
-            padding:2vw;
-        }
-        
         img {
             width: 50vw;
             float: right;
@@ -30,7 +15,29 @@
             display: inline;
         }
 
-        .contact {
+        a {
+            color: white;
+        }
+
+
+        
+        .About {
+            color: white;
+            background-image: url("https://www.planwallpaper.com/static/images/Alien_Ink_2560X1600_Abstract_Background_1.jpg");
+            width: 100vw;
+            height: 100px;
+            text-align: center;
+            vertical-align: center;
+            margin: 0;
+            padding-top: 50px;
+            position: relative;
+        }
+
+        .Padded {
+            padding:2vw;
+        }
+
+        .Contact {
             background: linear-gradient(to bottom right, grey, black);
             width: 100%;
             padding-left: 2vw;
@@ -39,8 +46,4 @@
             padding-bottom: 1vw;
             bottom: 0;
             position: fixed;
-        }
-
-        a {
-            color: white;
         }
